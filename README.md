@@ -1,248 +1,202 @@
-﻿<div align="center">
+﻿<!-- UNIQUE ANIMATED TITLE HEADER using SVG animation (GitHub renders inline SVGs via img tags) -->
+<div align="center">
 
-<!-- ════════════════════════════════════════════════════ -->
-<!--              ANIMATED HEADER BANNER                  -->
-<!-- ════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d1b2a&height=220&section=header&text=Ganesh%20B%20C&fontSize=72&fontAlign=50&fontAlignY=40&fontColor=e0d7ff&desc=Computer%20Science%20Engineer%20%7C%20Developer%20%7C%20Cybersecurity%20Enthusiast&descSize=18&descAlignY=62&descColor=a78bfa&animation=fadeIn" width="100%"/>
-
-<!-- ════════════════════════════════════════════════════ -->
-<!--              ANIMATED TYPING EFFECT                  -->
-<!-- ════════════════════════════════════════════════════ -->
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=🚀+Building+the+Future%2C+One+Commit+at+a+Time;🔐+Cybersecurity+%26+AI+Enthusiast;🌐+Full-Stack+Web+Developer;🤖+Exploring+Generative+AI;🎮+Game+Portal+Creator;🛡️+Ethical+Hacker+in+Training" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-<img src="https://komarev.com/ghpvc/?username=ganesh18-lgtm&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/ganesh18-lgtm?style=for-the-badge&color=a855f7&labelColor=1a0533&label=FOLLOWERS" alt="followers"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-22c55e?style=for-the-badge&labelColor=0f172a" alt="open to collaborate"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6d28d9,50:7c3aed,100:4f46e5&height=280&section=header&text=GANESH%20B%20C&fontSize=80&fontAlign=50&fontAlignY=45&fontColor=ffffff&stroke=a78bfa&strokeWidth=2&desc=CS%20Engineer%20%E2%80%A2%20Developer%20%E2%80%A2%20Cybersecurity%20Enthusiast&descSize=19&descAlignY=68&descColor=e0d7ff&animation=scaleIn&reversal=false" width="100%"/>
 
 </div>
 
+<!-- ANIMATED TYPING EFFECT — uses readme-typing-svg (very reliable, hosted on Vercel) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time;%F0%9F%94%90+Cybersecurity+%26+Ethical+Hacking+Enthusiast;%F0%9F%8C%90+Full-Stack+Web+Developer;%F0%9F%A4%96+Exploring+Generative+AI+%26+Machine+Learning;%F0%9F%8E%AE+Cyber+Game+Portal+Creator;%F0%9F%9B%A1%EF%B8%8F+Kali+Linux+%26+Penetration+Testing" alt="Typing SVG" />
+</p>
+
+<!-- BADGES ROW -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ganesh18-lgtm&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/ganesh18-lgtm?style=for-the-badge&color=a855f7&labelColor=1a0533&label=FOLLOWERS&logo=github&logoColor=white" alt="followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Collaborate-22c55e?style=for-the-badge&logo=circle&logoColor=white&labelColor=052e16" alt="status"/>
+</p>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 ---
-
-<!-- ════════════════════════════════════════════════════ -->
-<!--                 SPATIAL ABOUT SECTION               -->
-<!-- ════════════════════════════════════════════════════ -->
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
 
 ## 🌌 &nbsp;About Me
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ```yaml
-name        : Ganesh B C
-location    : Chennai, India 🇮🇳
-degree      : B.E. Computer Science Engineering
-institution : Saveetha Engineering College
-year        : 2nd Year (2025 – 2029)
-gpa         : 7.3 / 10.0
-
-focus_areas :
-  - 🌐 Full-Stack Web Development
-  - 🔐 Cybersecurity & Ethical Hacking
-  - 🤖 Generative AI & Machine Learning
-  - 🎮 Game Development (Unreal Engine)
-  - 🖨️ 3D Modeling & CAD Design
-
-currently   : Building modern, accessible web apps
-learning    : Advanced React, Cloud Architecture
+╔══════════════════════════════════════╗
+  PROFILE: GANESH B C
+══════════════════════════════════════
+  location    : Chennai, India 🇮🇳
+  degree      : B.E. Computer Science
+  institution : Saveetha Engineering
+  year        : 2nd Year (2025–2029)
+  gpa         : 7.3 / 10.0
+══════════════════════════════════════
+  specialties :
+    ● Full-Stack Web Development
+    ● Cybersecurity & Ethical Hacking
+    ● Generative AI & Machine Learning
+    ● Game Dev (Unreal Engine)
+    ● 3D Modeling (Blender/Fusion 360)
+══════════════════════════════════════
+  currently   : Building accessible apps
+  email       : ganesh180208@gmail.com
+╚══════════════════════════════════════╝
 ```
 
 </td>
 <td width="45%" valign="top" align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=ganesh18-lgtm&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=e0d7ff&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" width="100%" alt="GitHub Stats"/>
+
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="340" alt="dev quote"/>
+<img src="https://streak-stats.demolab.com?user=ganesh18-lgtm&theme=tokyonight&hide_border=false&border=7c3aed&stroke=a78bfa&ring=7c3aed&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e&background=0d1117" width="100%" alt="Streak Stats"/>
 
 </td>
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 ---
 
-<!-- ════════════════════════════════════════════════════ -->
-<!--               TECH STACK — SPATIAL GRID             -->
-<!-- ════════════════════════════════════════════════════ -->
+## 🛸 &nbsp;Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,ts,react,html,css,nodejs&perline=8&theme=dark" alt="languages"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,linux,bash,aws&perline=8&theme=dark" alt="tools"/>
+</p>
+
+<br/>
 
 <div align="center">
 
-## 🛸 &nbsp;Tech Universe
-
-<img src="https://skillicons.dev/icons?i=python,c,js,ts,react,html,css,nodejs,git,github,vscode,figma,blender,linux,bash&perline=8&theme=dark" alt="tech stack icons"/>
+| ⚡ Languages | 🌐 Web & Frameworks | 🔐 Security & Cloud | 🎨 Design & 3D |
+|:---:|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=unrealengine&logoColor=white) ![Fusion](https://img.shields.io/badge/Fusion_360-0696D7?style=flat-square&logo=autodesk&logoColor=white) |
 
 </div>
 
-<br/>
-
-<table width="100%" align="center">
-<tr>
-<td align="center" width="25%">
-
-**⚡ Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**🌐 Web & Frameworks**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**🔐 Security & Cloud**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</td>
-<td align="center" width="25%">
-
-**🎨 Design & 3D**
-
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
-![Autodesk](https://img.shields.io/badge/Fusion_360-0696D7?style=flat-square&logo=autodesk&logoColor=white)
-
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
-
-<!-- ════════════════════════════════════════════════════ -->
-<!--               GITHUB STATS DASHBOARD                -->
-<!-- ════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 ## 📊 &nbsp;GitHub Analytics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganesh18-lgtm&theme=tokyo-night&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=e0d7ff&area=true&hide_border=true" width="98%" alt="activity graph"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh18-lgtm&layout=donut-vertical&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=e0d7ff&hide_border=false&langs_count=8" height="250" alt="Top Languages"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ganesh18-lgtm&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=e0d7ff&hide_border=false" height="250" alt="Wakatime Stats"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganesh18-lgtm&theme=tokyo-night&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=ffffff&area_color=7c3aed&area=true&hide_border=true&custom_title=Ganesh%27s%20Contribution%20Timeline" width="97%" alt="Activity Graph"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ganesh18-lgtm&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=e0d7ff&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="190" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh18-lgtm&layout=donut&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=e0d7ff&hide_border=false&langs_count=8" height="190" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ganesh18-lgtm&theme=tokyonight&hide_border=false&border=7c3aed&stroke=a78bfa&ring=7c3aed&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e&background=0d1117" alt="GitHub Streak" height="180"/>
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
-<!-- ════════════════════════════════════════════════════ -->
-<!--                  FEATURED PROJECTS                   -->
-<!-- ════════════════════════════════════════════════════ -->
+## 🏆 &nbsp;GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ganesh18-lgtm&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Commits,PullRequest,Repositories,MultiLanguage,Followers,Issues" alt="Trophies" width="100%"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
 
 ## 🚀 &nbsp;Featured Projects
 
+<div align="center">
+
+<a href="https://github.com/ganesh18-lgtm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganesh18-lgtm&repo=ganesh18-lgtm&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=e0d7ff&icon_color=a78bfa" alt="Profile Repo"/>
+</a>
+
+</div>
+
+<br/>
+
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🎮 &nbsp;Cyber Game Portal
-> *A cyber-themed game hub built with modern React architecture*
+> *Cyberpunk-themed game hub built with React*
 
-A visually immersive game portal featuring a cyberpunk aesthetic, smooth animations, and a fully responsive layout. Designed to host multiple browser-based mini-games under one unified interface.
+A visually immersive game portal with smooth animations, responsive design, and multi-game support under a unified cyber-aesthetic interface.
 
-**Stack:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm)
+[![View](https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🤖 &nbsp;Assistive AI
-> *AI-powered vision assistant for visually impaired users*
+> *AI vision assistant for the visually impaired*
 
-An accessibility-first AI project leveraging computer vision and audio feedback to assist users with visual impairments in navigating their environment — blending empathy with engineering.
+Accessibility-first project using computer vision and real-time audio feedback to assist visually impaired users navigate their surroundings.
 
-**Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm)
+[![View](https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm)
 
 </td>
-
 </tr>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🔐 &nbsp;Cybersecurity Lab
-> *Collection of security experiments & penetration tools*
+> *Ethical hacking scripts & CTF writeups*
 
-A curated repository of ethical hacking scripts, CTF writeups, and cybersecurity practice labs — covering network scanning, vulnerability assessment, and password cracking fundamentals using Kali Linux.
+A curated collection of penetration testing tools, network scanning scripts, and CTF solutions using Kali Linux and Python.
 
-**Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm)
+[![View](https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🌐 &nbsp;Portfolio Website
-> *Spatial-design personal portfolio with glassmorphism UI*
+> *Spatial-design portfolio with glassmorphism UI*
 
-A meticulously crafted portfolio site featuring a scroll-spine navigation, reveal animations, glassmorphism cards, certificate viewer modal, and full dark-mode support — built with vanilla HTML/CSS/JS.
+A hand-crafted portfolio with scroll-spine navigation, reveal animations, certificate modal viewer, and full dark-mode — pure HTML/CSS/JS.
 
-**Stack:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm)
+[![View](https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm)
 
 </td>
-
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ════════════════════════════════════════════════════ -->
-<!--                  CERTIFICATIONS                      -->
-<!-- ════════════════════════════════════════════════════ -->
+---
 
 ## 🏅 &nbsp;Certifications & Credentials
 
@@ -250,165 +204,110 @@ A meticulously crafted portfolio site featuring a scroll-spine navigation, revea
 
 <table>
 <tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/Google-Generative_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gen AI"/><br/>
-  <sub>Google Cloud · 2026</sub>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Google-Generative_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/><br/><sub><b>Google Cloud · 2026</b></sub>
 </td>
-<td align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" alt="AWS Cloud"/><br/>
-  <sub>Amazon Web Services · 2026</sub>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/AWS-Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/><br/><sub><b>AWS · 2026</b></sub>
 </td>
-<td align="center">
-  <img src="https://img.shields.io/badge/AWS-Generative_AI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" alt="AWS Gen AI"/><br/>
-  <sub>Amazon Web Services · 2026</sub>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/AWS-Generative_AI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/><br/><sub><b>AWS · 2026</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/AWS-Machine_Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" alt="AWS ML"/><br/>
-  <sub>Amazon Web Services · 2026</sub>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/AWS-Machine_Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/><br/><sub><b>AWS · 2026</b></sub>
 </td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-Ethical_Hacking-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/><br/>
-  <sub>Skillup · 2026</sub>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Kali_Linux-Ethical_Hacking-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/><br/><sub><b>Skillup · 2026</b></sub>
 </td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-E63946?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity"/><br/>
-  <sub>Skillup · 2026</sub>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-E63946?style=for-the-badge&logo=hackthebox&logoColor=white"/><br/><sub><b>Skillup · 2026</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/Google-UX_Design-34A853?style=for-the-badge&logo=google&logoColor=white" alt="UX Design"/><br/>
-  <sub>Google UX Design · 2026</sub>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Google-UX_Design-34A853?style=for-the-badge&logo=google&logoColor=white"/><br/><sub><b>Google UX Design · 2026</b></sub>
 </td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Autodesk-Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360"/><br/>
-  <sub>SourceCAD · 2026</sub>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Autodesk-Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white"/><br/><sub><b>SourceCAD · 2026</b></sub>
 </td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Intro-Cryptocurrency-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Crypto"/><br/>
-  <sub>2026</sub>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Crypto-Introduction-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/><br/><sub><b>2026</b></sub>
 </td>
 </tr>
 </table>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ════════════════════════════════════════════════════ -->
-<!--               SKILLS PROFICIENCY TABLE              -->
-<!-- ════════════════════════════════════════════════════ -->
+---
 
 ## 🎯 &nbsp;Skill Proficiency
 
 <div align="center">
 
-| Skill | Proficiency |
-|---|---|
-| **JavaScript / TypeScript** | `████████░░` 80% |
-| **Python** | `████████░░` 80% |
-| **HTML & CSS** | `████████░░` 80% |
-| **C Programming** | `████████░░` 80% |
-| **React** | `██████░░░░` 65% |
-| **Cybersecurity** | `██████░░░░` 60% |
-| **Generative AI** | `█████░░░░░` 55% |
-| **3D Modeling / Blender** | `█████░░░░░` 55% |
-| **Cloud (AWS / GCP)** | `████░░░░░░` 50% |
+| Skill | Proficiency | Level |
+|:---|:---|:---:|
+| **JavaScript / TypeScript** | `████████░░` | 80% |
+| **Python** | `████████░░` | 80% |
+| **HTML & CSS** | `████████░░` | 80% |
+| **C Programming** | `████████░░` | 80% |
+| **React** | `██████░░░░` | 65% |
+| **Cybersecurity** | `██████░░░░` | 60% |
+| **Generative AI** | `█████░░░░░` | 55% |
+| **3D Modeling / Blender** | `█████░░░░░` | 55% |
+| **Cloud (AWS / GCP)** | `████░░░░░░` | 50% |
 
 </div>
 
----
-
-<!-- ════════════════════════════════════════════════════ -->
-<!--           GITHUB TROPHIES WIDGET                    -->
-<!-- ════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 &nbsp;GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ganesh18-lgtm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" width="100%"/>
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
-
-<!-- ════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION SNAKE                    -->
-<!-- ════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 ## 🐍 &nbsp;Contribution Snake
 
+> ⚡ *GitHub Actions generates this daily — run the workflow once to activate it*
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganesh18-lgtm/ganesh18-lgtm/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganesh18-lgtm/ganesh18-lgtm/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ganesh18-lgtm/ganesh18-lgtm/output/github-contribution-grid-snake-dark.svg" width="98%"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ganesh18-lgtm/ganesh18-lgtm/output/github-contribution-grid-snake-dark.svg" width="98%"/>
 </picture>
-
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ════════════════════════════════════════════════════ -->
-<!--                  CONNECT SECTION                    -->
-<!-- ════════════════════════════════════════════════════ -->
+---
 
 ## 🌐 &nbsp;Let's Connect
 
-<div align="center">
-
+<p align="center">
 <a href="https://www.linkedin.com/in/ganesh-b-c-926bb8406/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/ganesh18-lgtm" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:ganesh180208@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://x.com/example" target="_blank">
-  <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter"/>
-</a>
+</p>
 
-<br/><br/>
+<p align="center">
+  <i>"I love connecting with different people — if you want to say hi, I will be happy to meet you!"</i> 🌟
+</p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="connect sticker"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-*"I love connecting with different people — if you want to say hi, I will be happy to meet you!"* 🌟
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════ -->
-<!--               RANDOM DEV JOKE WIDGET                -->
-<!-- ════════════════════════════════════════════════════ -->
-
+<!-- FOOTER WAVE -->
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:6d28d9&height=130&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
 
-## 😂 &nbsp;Dev Joke of the Day
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0d1117&borderColor=7c3aed&textColor=a78bfa&qColor=e0d7ff&aColor=a78bfa" alt="Jokes Card" />
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════ -->
-<!--                    FOOTER WAVE                      -->
-<!-- ════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a0533,100:0d0d0d&height=120&section=footer&fontColor=e0d7ff&fontSize=16&text=Thanks+for+visiting+%F0%9F%9A%80&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-**⭐ Star my repos if you find them useful!**
+![Star Badge](https://img.shields.io/badge/%E2%AD%90_Star_my_repos_if_you_find_them_useful!-7c3aed?style=for-the-badge&logoColor=white)
 
 </div>
