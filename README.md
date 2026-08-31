@@ -14,8 +14,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ganesh18-lgtm&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/ganesh18-lgtm?style=for-the-badge&color=a855f7&labelColor=1a0533&label=FOLLOWERS&logo=github&logoColor=white" alt="followers"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/STATUS-Open%20to%20Collaborate-22c55e?style=for-the-badge&logo=circle&logoColor=white&labelColor=052e16" alt="status"/>
 </p>
 
@@ -38,7 +36,6 @@
   degree      : B.E. Computer Science
   institution : Saveetha Engineering
   year        : 2nd Year (2025–2029)
-  gpa         : 7.3 / 10.0
 ══════════════════════════════════════
   specialties :
     ● Full-Stack Web Development
@@ -55,7 +52,7 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ganesh18-lgtm&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=e0d7ff&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" width="100%" alt="GitHub Stats"/>
+<img src="profile/stats.svg" width="100%" alt="GitHub Stats"/>
 
 <br/>
 
@@ -95,13 +92,7 @@
 ## 📊 &nbsp;GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh18-lgtm&layout=donut-vertical&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=e0d7ff&hide_border=false&langs_count=8" height="250" alt="Top Languages"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ganesh18-lgtm&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=e0d7ff&hide_border=false" height="250" alt="Wakatime Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganesh18-lgtm&theme=tokyo-night&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=ffffff&area_color=7c3aed&area=true&hide_border=true&custom_title=Ganesh%27s%20Contribution%20Timeline" width="97%" alt="Activity Graph"/>
+  <img src="profile/top-langs.svg" width="100%" alt="Top Languages"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -111,7 +102,7 @@
 ## 🏆 &nbsp;GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ganesh18-lgtm&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Commits,PullRequest,Repositories,MultiLanguage,Followers,Issues" alt="Trophies" width="100%"/>
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=ganesh18-lgtm&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4" alt="Trophies" width="100%"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -123,7 +114,7 @@
 <div align="center">
 
 <a href="https://github.com/ganesh18-lgtm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganesh18-lgtm&repo=ganesh18-lgtm&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=e0d7ff&icon_color=a78bfa" alt="Profile Repo"/>
+  <img src="profile/pin-profile-repo.svg" alt="Profile Repo"/>
 </a>
 
 </div>
