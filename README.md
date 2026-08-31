@@ -91,9 +91,16 @@
 
 ## 📊 &nbsp;GitHub Analytics
 
-<p align="center">
-  <img src="profile/top-langs.svg" width="100%" alt="Top Languages"/>
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh18-lgtm&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&text_color=a0aec0&icon_color=7c3aed" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh18-lgtm&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&text_color=a0aec0&title_color=7c3aed&layout=compact" alt="Top Languages" width="48%"/>
+  
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganesh18-lgtm&theme=tokyonight" alt="Profile Summary" width="100%"/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
