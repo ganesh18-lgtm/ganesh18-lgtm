@@ -93,13 +93,13 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ganesh18-lgtm&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&text_color=a0aec0&icon_color=7c3aed" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh18-lgtm&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&text_color=a0aec0&title_color=7c3aed&layout=compact" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh18-lgtm&show_icons=true&theme=tokyonight&hide_border=false&border_color=7c3aed&bg_color=0d1117&text_color=a0aec0&icon_color=7c3aed&cache_seconds=1800" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh18-lgtm&theme=tokyonight&hide_border=false&border_color=7c3aed&bg_color=0d1117&text_color=a0aec0&title_color=7c3aed&layout=compact&cache_seconds=1800" alt="Top Languages" width="49%"/>
   
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganesh18-lgtm&theme=tokyonight" alt="Profile Summary" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganesh18-lgtm&theme=tokyo-night&hide_border=false&bg_color=0d1117&color=7c3aed&line=7c3aed&point=a78bfa&area_color=161b22&area=true&cache_seconds=1800" alt="Contribution Graph" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
