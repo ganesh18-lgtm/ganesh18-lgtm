@@ -52,8 +52,6 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ganesh18-lgtm&show_icons=true&theme=tokyonight&hide_border=false&border_color=7c3aed&bg_color=0d1117&text_color=a0aec0&icon_color=7c3aed&rank_icon=github" width="100%" alt="GitHub Stats"/>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=ganesh18-lgtm&theme=tokyonight&hide_border=false&border=7c3aed&stroke=a78bfa&ring=7c3aed&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e&background=0d1117" width="100%" alt="Streak Stats"/>
@@ -90,18 +88,6 @@
 ---
 
 ## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ganesh18-lgtm&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=7c3aed&text_color=a0aec0&icon_color=7c3aed&rank_icon=github" width="100%" alt="GitHub Stats"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh18-lgtm&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=7c3aed&text_color=a0aec0&layout=compact" width="100%" alt="Top Languages"/>
-  
-</div>
 
 <div align="center">
   
