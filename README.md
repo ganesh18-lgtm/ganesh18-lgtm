@@ -99,16 +99,6 @@
 
 ---
 
-## 🏆 &nbsp;GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-unserori.vercel.app/?username=ganesh18-lgtm&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4" alt="Trophies" width="100%"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
----
-
 ## 🚀 &nbsp;Featured Projects
 
 <div align="center">
