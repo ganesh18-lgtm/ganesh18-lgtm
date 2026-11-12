@@ -1,24 +1,18 @@
-﻿<!-- UNIQUE ANIMATED TITLE HEADER using SVG animation (GitHub renders inline SVGs via img tags) -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6d28d9,50:7c3aed,100:4f46e5&height=280&section=header&text=GANESH%20B%20C&fontSize=80&fontAlign=50&fontAlignY=45&fontColor=ffffff&stroke=a78bfa&strokeWidth=2&desc=CS%20Engineer%20%E2%80%A2%20Developer%20%E2%80%A2%20Cybersecurity%20Enthusiast&descSize=19&descAlignY=68&descColor=e0d7ff&animation=scaleIn&reversal=false" width="100%"/>
+<img src="./profile/hero-tech.svg" width="100%" alt="Animated Ganesh B C developer profile header"/>
 
 </div>
-
-<!-- ANIMATED TYPING EFFECT — uses readme-typing-svg (very reliable, hosted on Vercel) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time;%F0%9F%94%90+Cybersecurity+%26+Ethical+Hacking+Enthusiast;%F0%9F%8C%90+Full-Stack+Web+Developer;%F0%9F%A4%96+Exploring+Generative+AI+%26+Machine+Learning;%F0%9F%8E%AE+Cyber+Game+Portal+Creator;%F0%9F%9B%A1%EF%B8%8F+Kali+Linux+%26+Penetration+Testing" alt="Typing SVG" />
-</p>
 
 <!-- BADGES ROW -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ganesh18-lgtm&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Collaborate-22c55e?style=for-the-badge&logo=circle&logoColor=white&labelColor=052e16" alt="status"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-22d3ee?style=for-the-badge&logo=circle&logoColor=white&labelColor=0b1220" alt="status"/>
 </p>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="./profile/flow-divider.svg" width="100%" alt="Animated data flow divider"/>
 
 ---
 
@@ -38,13 +32,14 @@
   year        : 2nd Year (2025–2029)
 ══════════════════════════════════════
   specialties :
-    ● Full-Stack Web Development
-    ● Cybersecurity & Ethical Hacking
-    ● Generative AI & Machine Learning
-    ● Game Dev (Unreal Engine)
+    ● Android Development (Kotlin + Compose)
+    ● Offline-First Product Engineering
+    ● Generative AI & Computer Vision
+    ● Web Development (React + Vite)
+    ● Cybersecurity & Cryptography
     ● 3D Modeling (Blender/Fusion 360)
 ══════════════════════════════════════
-  currently   : Building accessible apps
+  currently   : Building intelligent, accessible apps
   email       : ganesh180208@gmail.com
 ╚══════════════════════════════════════╝
 ```
@@ -56,47 +51,73 @@
 
 <img src="https://streak-stats.demolab.com?user=ganesh18-lgtm&theme=tokyonight&hide_border=false&border=7c3aed&stroke=a78bfa&ring=7c3aed&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e&background=0d1117" width="100%" alt="Streak Stats"/>
 
+<br/>
+
+<img src="./profile/mission-control.svg" width="100%" alt="Animated ShelfLife AI mission control widget"/>
+
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="./profile/flow-divider.svg" width="100%" alt="Animated data flow divider"/>
 
 ---
 
 ## 🛸 &nbsp;Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,ts,react,html,css,nodejs&perline=8&theme=dark" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS">
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,linux,bash,aws&perline=8&theme=dark" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="Blender">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=unrealengine&theme=dark" alt="Unreal Engine">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV">
 </p>
 
 <br/>
 
 <div align="center">
 
-| ⚡ Languages | 🌐 Web & Frameworks | 🔐 Security & Cloud | 🎨 Design & 3D |
+| 📱 Android & AI | 🌐 Web | 🔐 Systems & Security | 🎨 Design & Hardware |
 |:---:|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=unrealengine&logoColor=white) ![Fusion](https://img.shields.io/badge/Fusion_360-0696D7?style=flat-square&logo=autodesk&logoColor=white) |
-
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black) ![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Room](https://img.shields.io/badge/Room%20%2F%20SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![VHDL](https://img.shields.io/badge/VHDL-4B275F?style=flat-square&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-2596BE?style=flat-square&logo=parrot&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Fusion](https://img.shields.io/badge/Fusion_360-0696D7?style=flat-square&logo=autodesk&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![Stitch](https://img.shields.io/badge/Stitch-7C3AED?style=flat-square&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-FF5A8A?style=flat-square&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<p align="center">
+  <b>IBM & Infrastructure</b><br/>
+  <img src="https://img.shields.io/badge/IBM-1261FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM">&nbsp;
+  <img src="https://img.shields.io/badge/LinuxONE-1261FE?style=flat-square&logo=ibm&logoColor=white" alt="LinuxONE">&nbsp;
+  <img src="https://img.shields.io/badge/Parrot_OS-2596BE?style=flat-square&logo=parrot&logoColor=white" alt="Parrot OS">&nbsp;
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
+</p>
+
+<p align="center">
+  <sub>Also exploring: CameraX · Google ML Kit · Dagger Hilt · Room offline persistence · IoT development boards · cryptography · computer vision · linear algebra · machine learning</sub>
+</p>
+
+<img src="./profile/flow-divider.svg" width="100%" alt="Animated data flow divider"/>
 
 ---
 
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganesh18-lgtm&theme=tokyonight" width="48%" alt="Repos by Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ganesh18-lgtm&theme=tokyonight" width="48%" alt="Most Commit Language"/>
-  
+  <img src="./profile/github-signal-dashboard.svg" width="100%" alt="Animated GitHub signal dashboard showing language telemetry and activity pulse"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+> Live repository cards are refreshed by GitHub Actions; this dashboard adds a visual layer for the language and contribution signals.
+
+<img src="./profile/flow-divider.svg" width="100%" alt="Animated data flow divider"/>
+
+---
+
+## ✨ &nbsp;Contribution Orbit
+
+<div align="center">
+  <img src="./profile/contribution-orbit.svg" width="100%" alt="Animated contribution orbit"/>
+</div>
+
+> A custom SVG animation for the commits, experiments, and ideas constantly moving through my GitHub universe.
+
+<img src="./profile/flow-divider.svg" width="100%" alt="Animated data flow divider"/>
 
 ---
 
@@ -108,67 +129,86 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 &nbsp;Cyber Game Portal
-> *Cyberpunk-themed game hub built with React*
+### 🌿 &nbsp;ShelfLife AI
+> *Offline-first pantry intelligence and on-device vision*
 
-A visually immersive game portal with smooth animations, responsive design, and multi-game support under a unified cyber-aesthetic interface.
+Android app combining CameraX, Google ML Kit, Room, Hilt, and Gemini AI to track freshness, reduce food waste, and generate zero-waste recipes.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://github.com/ganesh18-lgtm/ShelfLife-AI)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://github.com/ganesh18-lgtm/ShelfLife-AI)
+[![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://github.com/ganesh18-lgtm/ShelfLife-AI)
 
-[![View](https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm)
+[![Explore](https://img.shields.io/badge/Explore%20Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm/ShelfLife-AI)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 &nbsp;Assistive AI
-> *AI vision assistant for the visually impaired*
+### 🚇 &nbsp;Chennai Transit Companion
+> *100% offline-first metro and bus companion*
 
-Accessibility-first project using computer vision and real-time audio feedback to assist visually impaired users navigate their surroundings.
+Kotlin and Compose application with locally bundled routes, stations, fares, and transit information for reliable travel without an internet connection.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://github.com/ganesh18-lgtm/chennai-transit-companion)
+[![Room](https://img.shields.io/badge/Room%20SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/ganesh18-lgtm/chennai-transit-companion)
 
-[![View](https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm)
+[![Explore](https://img.shields.io/badge/Explore%20Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm/chennai-transit-companion)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 &nbsp;Cybersecurity Lab
-> *Ethical hacking scripts & CTF writeups*
+### 🌌 &nbsp;StellarDrift
+> *React + Vite interactive web experience*
 
-A curated collection of penetration testing tools, network scanning scripts, and CTF solutions using Kali Linux and Python.
+A JavaScript front-end experiment focused on responsive composition, motion, and a polished visual experience.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/ganesh18-lgtm/StellarDrift)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://github.com/ganesh18-lgtm/StellarDrift)
 
-[![View](https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm)
+[![Explore](https://img.shields.io/badge/Explore%20Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm/StellarDrift)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 &nbsp;Portfolio Website
-> *Spatial-design portfolio with glassmorphism UI*
+### 🕵️ &nbsp;Crime Scene Intelligence System
+> *Applied intelligence and investigation project*
 
-A hand-crafted portfolio with scroll-spine navigation, reveal animations, certificate modal viewer, and full dark-mode — pure HTML/CSS/JS.
+A dedicated repository exploring structured crime-scene intelligence workflows and technology-assisted investigation concepts.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+[![Explore](https://img.shields.io/badge/Explore%20Repository-e63946?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm/crime-scene-intelligence-system)
 
-[![View](https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 &nbsp;Neon Memory Matrix
+> *Dependency-free cyberpunk browser game*
+
+Keyboard-friendly matching game with animated cards, live status updates, responsive layout, and reduced-motion support.
+
+[![Play](https://img.shields.io/badge/Play%20the%20Game-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=07111f)](./projects/neon-memory/index.html)
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](./projects/neon-memory/)
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ &nbsp;Computer Vision Lab
+> *OpenCV experiments and image-processing notebooks*
+
+Repository work includes lane detection with Hough Transform, Haar-cascade face detection, filtering, thresholding, morphology, edge detection, and geometric transforms.
+
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://github.com/ganesh18-lgtm/Detect-the-lines-using-Hough-Transform)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/ganesh18-lgtm/Face-Detection-with-Haar-Cascades)
+
+[![Lane Detection](https://img.shields.io/badge/Lane%20Detection-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18-lgtm/Detect-the-lines-using-Hough-Transform)
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="./profile/flow-divider.svg" width="100%" alt="Animated data flow divider"/>
 
 ---
 
@@ -214,29 +254,27 @@ A hand-crafted portfolio with scroll-spine navigation, reveal animations, certif
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="./profile/flow-divider.svg" width="100%" alt="Animated data flow divider"/>
 
 ---
 
-## 🎯 &nbsp;Skill Proficiency
+## 🎯 &nbsp;Skills & Learning Tracks
 
 <div align="center">
 
-| Skill | Proficiency | Level |
-|:---|:---|:---:|
-| **JavaScript / TypeScript** | `████████░░` | 80% |
-| **Python** | `████████░░` | 80% |
-| **HTML & CSS** | `████████░░` | 80% |
-| **C Programming** | `████████░░` | 80% |
-| **React** | `██████░░░░` | 65% |
-| **Cybersecurity** | `██████░░░░` | 60% |
-| **Generative AI** | `█████░░░░░` | 55% |
-| **3D Modeling / Blender** | `█████░░░░░` | 55% |
-| **Cloud (AWS / GCP)** | `████░░░░░░` | 50% |
+| Area | Evidence across my repositories |
+|:---|:---|
+| **Android engineering** | Kotlin, Jetpack Compose, Material 3, Room/SQLite, Hilt, offline-first architecture |
+| **Generative AI & computer vision** | Gemini AI, CameraX, Google ML Kit, OpenCV, lane detection, face detection |
+| **Web development** | React, Vite, JavaScript, TypeScript, HTML, CSS, responsive interfaces, interactive motion |
+| **Programming fundamentals** | Python modules, C programming, linear algebra, regression, matrix algorithms |
+| **Cybersecurity & cryptography** | Caesar, Vigenere, Hill, Rail Fence, DES, AES, RSA, Diffie-Hellman, ECC, ElGamal |
+| **Systems & embedded** | Linux, Ubuntu, Parrot OS, IBM LinuxONE, processes, IPC, shared memory, pipes, semaphores, IoT boards, VHDL logic |
+| **Creative technology** | Blender, Fusion 360, Unreal Engine, Stitch, Lovable, Figma, 3D modelling, game experiments, UX-focused visual design |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="./profile/flow-divider.svg" width="100%" alt="Animated data flow divider"/>
 
 ---
 
@@ -252,7 +290,7 @@ A hand-crafted portfolio with scroll-spine navigation, reveal animations, certif
 </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="./profile/flow-divider.svg" width="100%" alt="Animated data flow divider"/>
 
 ---
 
@@ -276,11 +314,11 @@ A hand-crafted portfolio with scroll-spine navigation, reveal animations, certif
   <i>"I love connecting with different people — if you want to say hi, I will be happy to meet you!"</i> 🌟
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="./profile/flow-divider.svg" width="100%" alt="Animated data flow divider"/>
 
 <!-- FOOTER WAVE -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:6d28d9&height=130&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+<img src="./profile/footer-tech.svg" width="100%" alt="Animated technology footer"/>
 
 ![Star Badge](https://img.shields.io/badge/%E2%AD%90_Star_my_repos_if_you_find_them_useful!-7c3aed?style=for-the-badge&logoColor=white)
 
